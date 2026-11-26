@@ -1,0 +1,2 @@
+# Codifyre AI - ERA 835 Parser
+# No third-party dependencies: runs on the Python 3.9+ standard library.
